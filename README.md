@@ -8,6 +8,5 @@ print("Hello World!")
 
 **Introduction**
 
-* Please check <insert link to INTRODUCTION> for general information about this list.
-* 
+* Please check [INTRODUCTION](https://github.com/ajaypokharel/get-started-with-python/blob/master/INTRODUCTION.md) for general information about this list. for general information about this list.
 
