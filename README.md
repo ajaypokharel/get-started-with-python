@@ -16,7 +16,8 @@ print("Hello World!")
 -----------------
 
 - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Python Programming Basics](#python-programming-basics)
+- [Strings in Python](#strings-in-python)
+- [Integers and Floats in Python](#integers-and-floats-in-python)
 
 
 
@@ -26,16 +27,21 @@ print("Hello World!")
 
 ### Introduction to Computer Science
 
-- [See Best Practices for *Introduction to Computer Science*](https://www.github.com/ajaypokharel/get-started-with-python/Essentials/intro-to-cs/best_practices.md)
+- [See Best Practices for *Introduction to Computer Science*](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/intro-to-cs/best_practices.md)
 - [Introduction to Programming and Computer Science - freeCodeCamp](https://youtu.be/zOjov-2OZ0E)
 - [Python - Intro to Computer Science - Harvard's CS50 (Highly Recommended)](https://youtu.be/hnDU1G9hWqU)
 - [Problems - Intro to Computer Science (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/introduction/Essentials/intro-to-cs/Problems.md)
 
 
-### Python Programming Basics
+### Strings in Python
 
-- [See Best Practices for *Python Programming Basics*](https://www.github.com/ajaypokharel/get-started-with-python/Essentials/python-basics/best_practices.md)
-- [Python Programming Beginner Tutorials - Corey Shafer (Upto the *9th* tutorial)](https://youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
-- [Problems - Python Basics (Solve these after Lectures)](https://www.github.com/ajaypokharel/get-started-with-python/Essentials/python-basics/Problems.md)
+- [See Best Practices for *Python Programming Basics*](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/best_practices.md)
+- [Strings in Python - By Corey Schafer](https://youtu.be/k9TUPpGqYTo)
+- [Strings in Python - Programiz](https://youtu.be/GQywwPUrsgA)
+- [Problems - Python Strings (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/strings.py)
 
+
+### Integers and Float in Python
+- [Integers and Floats - Corey Schafer](https://youtu.be/khKv-8q7YmY)
+- [Problems - Python Numbers (Solve these after Lectures)]()
 
