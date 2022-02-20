@@ -43,5 +43,17 @@ print("Hello World!")
 
 ### Integers and Float in Python
 - [Integers and Floats - Corey Schafer](https://youtu.be/khKv-8q7YmY)
-- [Problems - Python Numbers (Solve these after Lectures)]()
+- [Problems - Python Numbers (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/numbers.py)
+
+
+### Lists, Tuples, and Sets Data Type in Python
+- [List, Tuples, and Sets in Python - Corey Schafer](https://youtu.be/W8KRzm-HUcc)
+- [List, Tuples in Python - Programiz](https://youtu.be/hANUgg72TDc)
+- [Sets in Depth (Optional) - Corey Schafer](https://youtu.be/r3R3h5ly_8g)
+- [Problems - Python Lists, Tuples, and Sets](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/list_tuple.py)
+
+### Python Dictionaries
+- [Python Dictionaries - Corey Schafer](https://youtu.be/daefaLgNkw0)
+- [Python Dictionaries - Programiz](https://youtu.be/_4wOvc-vt4k)
+- [Problems - Python Dictionaries](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/dictionary.py)
 
