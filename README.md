@@ -57,3 +57,13 @@ print("Hello World!")
 - [Python Dictionaries - Programiz](https://youtu.be/_4wOvc-vt4k)
 - [Problems - Python Dictionaries](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/dictionary.py)
 
+
+### Python Conditionals and Booleans
+- [Conditionals and Booleans - If, Else, and Elif Statements - Corey Schafer](https://youtu.be/DZwmZ8Usvnk)
+- [Control Flow in Python - If Elif Else Statements - Programming with Mosh](https://youtu.be/Zp5MuPOtsSY)
+- [Problems - Python Conditionals](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/if_else.py)
+
+### Loops in Python (For and While Loops)
+- [Loops and Iterations in Python - Corey Schafer](https://youtu.be/6iF8Xb7Z3wQ)
+- [Introduction to For Loops in Python - CS Dojo](https://youtu.be/OnDr4J2UXSA)
+- [Problems - Python For and While Loops](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/loops.py)
