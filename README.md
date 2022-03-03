@@ -27,14 +27,19 @@ print("Hello World!👋")
 - [Loops in Python (For & While Loops](#loops-in-python)
 - [Python Functions](#python-functions)
 
+
+```python
+print("Congrats! If you have managed to complete Python Basics, you are ready to move on to some more Python")
+```
+
+
 <h4> Diving More into Python </h4>
 
-- [Diving More into Python](#diving-more-into-python)
-
+- [See Best Practices for Effectively Using This Section](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-intermediate/best_practices.md)
 - [Global & Local Scope in Python](#global-and-local-scope-in-python)
-
-<h4>Python Object Oriented Programming </h4>
-
+- [Slicing Strings and List in Python](#slicing-strings-and-list-in-python)
+- [Python Comprehension](#python-comprehension)
+- [Error Handling in Python](#error-handling-in-python)
 - [Python Classes Introduction](#python-classes-introduction)
 
 
@@ -96,17 +101,31 @@ print("Hello World!👋")
 - [Python Functions (The Only Guide You'll Need) - Programiz](https://youtu.be/-Bkupx9gX0o)
 - [Problems - Basic Python Functions](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/functions.py)
 
-### Diving More into Python
-- [See Best Practices for Effectively Using This Section]()
-
 
 ### Global and Local Scope in Python
 - [Global and Local Scope Variables - Corey Schafer](https://youtu.be/QVdf0LgmICw)
 - [GLOBAL & LOCAL VARIABLE - Sundeep Saradi Kanthety](https://youtu.be/gRTVLZuidG0)
 - [Problems - Global and Local Scope in Python](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-intermediate/global_local.py)
 
+### Slicing Strings and List in Python
+- [Slicing List and String - Corey Schafer](https://youtu.be/ajrtAuDg3yw)
+- [Python Slicing of Lists & Strings | Python Best Practices - Programiz](https://youtu.be/A5N_-kMbv1o)
+- [Problems - Slicing in Python](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-intermediate/slicing.py)
+
+### Python Comprehension
+- [Python List, Set & Dictionary Comprehension | Python Best Practices - Programiz](https://youtu.be/TGaKzl6p4nA)
+- [Comprehensions - How they work and why you should be using them - Corey Schafer](https://youtu.be/3dt4OGnU5sM)
+- [Problems - Python List and Dictionary Comprehension](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-intermediate/comprehension.py)
+
+### Error Handling in Python
+- [Python Exception Handling: try...catch...finally - Programiz](https://youtu.be/brICUKrzVR0)
+- [Using Try/Except Blocks for Error Handling - Corey Schafer](https://youtu.be/NIWwJbo-9_8)
+- [Probelms - Try/Catch in Python](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-intermediate/try_catch.py)
+
 ### Python Classes Introduction
 - [Python Classes and Object - Amigoscode](https://youtu.be/3nhCyM14m6k)
 - [Python Classes and Instance - Corey Schafer](https://youtu.be/ZDa-Z5JzLYM)
 - [Problems - Python Classes and Instance](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-oop/classes_intro.py)
+
+
 
