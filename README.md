@@ -60,7 +60,7 @@ print("Congrats! If you have managed to complete Python Basics, you are ready to
 - [See Best Practices for *Python Programming Basics*](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/best_practices.md)
 - [Strings in Python - By Corey Schafer](https://youtu.be/k9TUPpGqYTo)
 - [Strings in Python - Programiz](https://youtu.be/GQywwPUrsgA)
-- [Problems - Python Strings (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/strings.py)
+- [Problems - Python Strings (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/strings.md)
 
 
 ### Integers and Float in Python
