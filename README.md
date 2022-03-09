@@ -52,7 +52,7 @@ print("Congrats! If you have managed to complete Python Basics, you are ready to
 - [See Best Practices for *Introduction to Computer Science*](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/intro-to-cs/best_practices.md)
 - [Introduction to Programming and Computer Science - freeCodeCamp](https://youtu.be/zOjov-2OZ0E)
 - [Python - Intro to Computer Science - Harvard's CS50 (Highly Recommended)](https://youtu.be/hnDU1G9hWqU)
-- [Problems - Intro to Computer Science (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/introduction/Essentials/intro-to-cs/Problems.md)
+- [Problems - Intro to Computer Science (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/intro-to-cs/Problems.md)
 
 
 ### Strings in Python
@@ -66,7 +66,7 @@ print("Congrats! If you have managed to complete Python Basics, you are ready to
 ### Integers and Float in Python
 
 - [Integers and Floats - Corey Schafer](https://youtu.be/khKv-8q7YmY)
-- [Problems - Python Numbers (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/numbers.py)
+- [Problems - Python Numbers (Solve these after Lectures)](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/numbers.md)
 
 
 ### List, Tuple, and Set Data Types in Python
@@ -74,7 +74,7 @@ print("Congrats! If you have managed to complete Python Basics, you are ready to
 - [List, Tuples, and Sets in Python - Corey Schafer](https://youtu.be/W8KRzm-HUcc)
 - [List, Tuples in Python - Programiz](https://youtu.be/hANUgg72TDc)
 - [Sets in Depth (Optional) - Corey Schafer](https://youtu.be/r3R3h5ly_8g)
-- [Problems - Python Lists, Tuples, and Sets](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/list_tuple.py)
+- [Problems - Python Lists, Tuples, and Sets](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/list_tuple.md)
 
 ### Python Dictionaries
 
