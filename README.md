@@ -9,6 +9,7 @@ print("Hello World!👋")
 **Introduction**
 
 * Please check [INTRODUCTION](https://github.com/ajaypokharel/get-started-with-python/blob/master/INTRODUCTION.md) for general information about this list.
+* Please check [CONTRIBUTING](https://github.com/ajaypokharel/get-started-with-python/blob/master/CONTRIBUTION.md) for contributing guidelines.
 
 -----------------
 
