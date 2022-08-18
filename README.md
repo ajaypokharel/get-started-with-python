@@ -80,7 +80,7 @@ print("Congrats! If you have managed to complete Python Basics, you are ready to
 
 - [Python Dictionaries - Corey Schafer](https://youtu.be/daefaLgNkw0)
 - [Python Dictionaries - Programiz](https://youtu.be/_4wOvc-vt4k)
-- [Problems - Python Dictionaries](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/dictionary.py)
+- [Problems - Python Dictionaries](https://github.com/ajaypokharel/get-started-with-python/blob/master/Essentials/python-basics/dictionary.md)
 
 
 ### Python Conditionals and Booleans
